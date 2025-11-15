@@ -7,6 +7,7 @@ This repository contains my solution for the SumUp case study.
 - `sql/2_Task_resolution.sql` – SQL for task analysis and calculations
 - Case_SumUp_support.csv - Supporting Google Sheets for copy GBQ results
 - GabrielSF_SumUP_Case_resolution.pdf - Case solution
+- GabrielSF_SumUP_Additional_SupportOperationsReview.pdf - Presentation prepared for the VP of Operations and the Director of Support, Europe
 
 ## How was my process
 - Import the CSV table into Google BigQuery
