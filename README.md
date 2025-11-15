@@ -3,10 +3,10 @@
 This repository contains my solution for the SumUp case study.
 
 ## Repository structure
-- `solution/solution.md` – Full case solution (copied from Google Docs)
 - `sql/1_Table_Creation.sql` – SQL for table creation
 - `sql/2_Task_resolution.sql` – SQL for task analysis and calculations
-- `data/support_data.csv` – Supporting Google Sheets for copy GBQ results
+- Case_SumUp_support.csv - Supporting Google Sheets for copy GBQ results
+- GabrielSF_SumUP_Case_resolution.pdf - Case solution
 
 ## How was my process
 - Import the CSV table into Google BigQuery
@@ -22,4 +22,4 @@ This repository contains my solution for the SumUp case study.
 - Create a Git repository
 
 ## Case document with my answers
-See: `solution/solution.md`
+GabrielSF_SumUP_Case_resolution.pdf
